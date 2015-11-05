@@ -19,7 +19,7 @@ The code should be able to be built with Maven 3, simply cloning the repository,
 mvn package
 ```
 
-By default, this builds against Fedora 3.6.2. To build against other versions of Fedora, the "fedora.version" parameter can be passed, something like:
+By default, this builds against Fedora 3.6.2. To build against other versions of Fedora, the `fedora.version` parameter can be passed, something like:
 
 ```
 mvn package -Dfedora.version=3.8.1
