@@ -131,6 +131,10 @@
 						<artifactId>log4j-over-slf4j</artifactId>
 						<groupId>org.slf4j</groupId>
 					</exclusion>
+					<exclusion>
+						<groupId>woodstox</groupId>
+						<artifactId>wstx-asl</artifactId>
+					</exclusion>
 				</exclusions>
 				<scope>provided</scope>
 			</dependency>
