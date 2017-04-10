@@ -169,7 +169,7 @@
 	</dependencyManagement>
 	<properties>
 		<fedora.version>3.8.1</fedora.version>
-		<blazegraph.version>2.1.0</blazegraph.version>
+		<blazegraph.version>2.1.4</blazegraph.version>
 		<spring.version>3.0.7.RELEASE</spring.version>
 		<sesame.version>2.7.13</sesame.version>
 	</properties>
